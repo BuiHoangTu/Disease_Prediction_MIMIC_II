@@ -1,7 +1,6 @@
 # MIMIC_II_Database_Analysis
 Analysis and Disease Prediction Using MIMIC II Database
 
-
 # Objective
 By analyzing ICU Admitted Patients’ Data (MIMIC II), here we tried to build up a Machine Learning model which can efficiently and correctly classify the category of the disease in the patient based on its vital signs, age and gender, even before the patient reaches the hospital. So that the arrangements for his treatment can be made readily, consequently saving lives due to this early diagnosis of the disease.
 
@@ -66,3 +65,5 @@ In this Research we analyzed ICU admitted data of patients of an American Hospit
 This ML model will help in prediction of early diagnosis of the disease and consequently help saving precious lives of the patients.
 
 
+##### Dataset Link : https://www.kaggle.com/datasets/drscarlat/mimic2-original-icu/metadata
+##### (Due to unknown reason the dataset has been removed from kaggle)
