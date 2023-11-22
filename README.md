@@ -9,7 +9,7 @@ By analyzing ICU Admitted Patients’ Data (MIMIC II), here we tried to build up
 
 ## Data Gathering:
 
-By analyzing ICU Admitted Patients’ Data, here we tried to build up a Machine Learning model which can efficiently and correctly classify the disease of the patient based on its vital signs, age and gender, even before the patient reaches the hospital. So that the arrangements for his treatment can be made readily, consequently saving lives due to this early diagnosis of the disease.
+By analyzing ICU Admitted Patients’ Data, here we tried to build up a Machine Learning model which can efficiently and correctly classify the disease of the patient based on its vital signs, age and gender, even before the patient reaches the hospital. So that the arrangements for his treatment can be made readily, consequently saving lives due to this early diagnosis of the disease.
 
 
 ## Data Understanding:
